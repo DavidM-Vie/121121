@@ -1,0 +1,23 @@
+html {
+  background: cornsilk;
+  color: black;
+}
+
+#header-wrapper {
+  width: 80%;
+  margin: 0 auto;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+}
+
+nav li a {
+  text-decoration: none;
+}
+
+nav li {
+  list-style: none;
+}
+
